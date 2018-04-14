@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Armando/CLionProjects/algoritmo-des/funciones.c
+stdio.h
+-
+stdlib.h
+-
+funciones.h
+C:/Users/Armando/CLionProjects/algoritmo-des/funciones.h
+
+C:/Users/Armando/CLionProjects/algoritmo-des/funciones.h
+
+C:/Users/Armando/CLionProjects/algoritmo-des/main.c
+stdio.h
+-
+tablas.h
+C:/Users/Armando/CLionProjects/algoritmo-des/tablas.h
+funciones.h
+C:/Users/Armando/CLionProjects/algoritmo-des/funciones.h
+
+C:/Users/Armando/CLionProjects/algoritmo-des/tablas.c
+tablas.h
+C:/Users/Armando/CLionProjects/algoritmo-des/tablas.h
+
+C:/Users/Armando/CLionProjects/algoritmo-des/tablas.h
+
